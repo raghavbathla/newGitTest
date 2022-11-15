@@ -14,7 +14,6 @@ public class Main {
 
         boolean flag = false;
 
-
         for (int i = 2; i < num /2 ; ++i) {
             if(num % i == 0 ) {
                 flag =true;
@@ -26,5 +25,6 @@ public class Main {
         else
             System.out.println(num + " is Not Prime Number. ");
     }
+    //new branch to add
     }
 
